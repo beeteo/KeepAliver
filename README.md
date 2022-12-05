@@ -24,3 +24,6 @@ if __name__ == '__main__':
 
 - ` app.run(logs=False) -> logs ` : `logs=True`: dont show console logs > `logs=False` : show all console logs
 - ` app.run(runmsg='helloworld') -> runmsg ` : Description > custom message to start keep alive
+
+
+> this library was created in 3 minutes lol
